@@ -1,2 +1,2 @@
-# unificar_pdf
- Junção de arquivos PDF
+# Junção de arquivos PDF
+ Código para unir arquivos PDF.
